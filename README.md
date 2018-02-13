@@ -1,4 +1,4 @@
-Video & Image Crawler (crawler-for-video-image)
+Video & Image Crawler use Node.js (crawler-for-video-image)
 
 ####	A easy crawler for video and image.
 
